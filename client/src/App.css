@@ -1,0 +1,47 @@
+.page-Title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+.form-container {
+  width: 400px;
+  margin: auto;
+}
+
+.content-container {
+  padding-left: 6em !important;
+  padding-right: 6em !important;
+  padding-top: 1em !important;
+  padding-bottom: 8em;
+}
+
+.full-container {
+  opacity: 100% !important;
+}
+
+body {
+  opacity: 97%;
+  height: 100%;
+  background: url(../src/images/black-background-wood-i-e29da4-4k-hd-desktop-wallpaper-for-4k-ultra-hd.jpg);
+  background-size: 2000px 1500px;
+}
+
+h1 {
+  color: rgba(245, 245, 245, 0.979) !important;
+}
+
+.ui.inverted.attached.segment {
+  border-color: transparent;
+}
+
+.ui.red.button:focus,
+.ui.red.buttons .button:focus {
+  background-color: #db2828;
+}
+
+.icon_corner {
+  width: 4rem;
+  height: 4rem;
+}
