@@ -1,4 +1,3 @@
-# SocialMediaApp
-Create posts and interact with users, built using MongoDB, Express, Node JS, React, GraphQL and Apollo
+Image Repository
 
-Live Demo: https://yellhere.netlify.com/
+Created using NodeJs, MongoDB, GraphQL, Apollo, and partial frontend completed using React
